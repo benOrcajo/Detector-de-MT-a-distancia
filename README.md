@@ -1,4 +1,4 @@
-# Detector de Campo eléctrico - EPI Wearable
+# Detector de Campo Eléctrico - EPI Wearable
 Firmware para STM32L031K6 (LQFP-32) para la detección a distancia a líneas de media tensión (15/20/30 kv)
 
 # Uso
