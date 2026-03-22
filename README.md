@@ -1,10 +1,10 @@
 # Detector de Campo Eléctrico - EPI Wearable
-Firmware para STM32L031K6 (LQFP-32) para la detección a distancia a líneas de media tensión (15/20/30 kv)
+Firmware para STM32L031K6 (LQFP-32) para la detección a distancia en líneas de media tensión (15/20/30 kv)
 
 # Uso
 Alimentación de equipo.
 Selección de umbral.
-Led amarillo como indicador de umbral activo y también indicadores de carga de batería.
+Led amarillo como indicador de umbral activo y también como indicadores de carga de la batería.
 Led rojo + buzzer como actuadores ante el peligro.
 
 # Programación
