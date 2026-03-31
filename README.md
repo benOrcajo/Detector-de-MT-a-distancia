@@ -8,7 +8,9 @@ El sistema detecta el campo eléctrico capacitivo de 50 Hz y alerta al usuario m
 
 # Contenido del repositorio
 Hardware: Esquemático y PCB en KiCad 9.0
+
 Firmware: Código fuente STM32CubeIDE (C, STM32L031K6)
+
 Simulation: Simulaciones de la cadena analógica en MATLAB/Simulink.
 
 # Licencia
