@@ -1,6 +1,8 @@
 # Detector de Campo Eléctrico - EPI Wearable
 Trabajo Final de Grado - Ingeniería Electrónica Industrial y Automática.
+
 Autor: Rubén Orcajo Pérez. | Universidad de Burgos | 2026
+
 Tutor: Vanesa Fernández Cavero
 
 # Descrpición
