@@ -5,7 +5,7 @@ Autor: Rubén Orcajo Pérez | Universidad de Burgos | 2026
 
 Tutor: Vanesa Fernández Cavero
 
-# Descrpición
+# Descripción
 Diseño completo de un equipo de protección individual (EPI) wearable para la detección de proximidad a líneas de media tensión, seleccionando tres umbrales de tensión (15, 20 y 30 kv).
 El sistema detecta el campo eléctrico capacitivo de 50 Hz y alerta al usuario mediante señal visual y acústica al entrar en la distancia de próximidad-1.
 
