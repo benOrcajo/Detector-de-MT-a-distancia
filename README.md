@@ -25,3 +25,5 @@ Simulation: Simulaciones de la cadena analógica en MATLAB/Simulink.
 
 # Licencia
 Archivo protegido con contraseña. Uso exclusivo académico.
+
+Cualquier interesado en colaborar o profundizar en el estudio puede solicitar la clave de descifrado fomentando así una red de intercambio académico controlada y segura.
